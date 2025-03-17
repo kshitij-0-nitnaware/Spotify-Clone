@@ -10,3 +10,5 @@ This is a Spotify Clone built using HTML, CSS. The project replicates the design
 ✔ Interactive hover effects.
 
 This project was created as part of my web development journey to strengthen my skills in HTML, CSS. Feel free to explore, fork, and improve it!
+
+🔗 Live Demo: https://kshitij-0-nitnaware.github.io/Spotify-Clone/
